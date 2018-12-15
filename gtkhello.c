@@ -2,8 +2,7 @@
 /* 
 Compiling Hello World
 To compile use:
- gcc -Wall -g helloworld.c -o helloworld `gtk-config --cflags` \
-    `gtk-config --libs`
+ gcc -Wall -g helloworld.c -o helloworld `gtk-config --cflags`   `gtk-config --libs`
 */
 
 
