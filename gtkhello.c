@@ -1,5 +1,7 @@
 
 /* 
+sudo apt-get install libgtk2.0-dev
+
 Compiling Hello World
 To compile use:
  gcc -Wall -g helloworld.c -o helloworld `gtk-config --cflags`   `gtk-config --libs`
